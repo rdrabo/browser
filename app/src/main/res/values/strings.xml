@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InternetBrowser</string>
+    <string name="prompt">Please confirm what will be used to browse the internet.
+        If you leave nothing checked then you can see what you are using.
+        Please note that WI-FI takes priority.</string>
+    <string name="stop"></string>
+
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+
+
+
+    <string name="button_star_add">Add to *</string>
+    <string name="button_star_remove">Remove *</string>
+
+</resources>
